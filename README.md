@@ -1,7 +1,7 @@
 
 # Rocketseat Explorer Desafio 3
 
-Desáfio desenvolvido durante o curso Explorer para reforçar os aprendizados sobre HTML5 e CSS3.
+Desáfio desenvolvido durante o curso Explorer para reforçar os aprendizados sobre tags semânticas e acessibilidade.
 
 
 ## Aprendizados
